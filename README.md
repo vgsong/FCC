@@ -10,7 +10,7 @@ I have learned VBA through MS Excel, Python, JavaScript (which forgot most of it
 
 Current Projects:
 FCC - Data Analysis with Python
-Learning tkinter
+
 Learning C
 Thinking about learning JavaScript again (through FCC challenges)
 
